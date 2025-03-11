@@ -33,3 +33,4 @@ h1, h2, h3, h4, h5, h6 {color: rgb(241, 182, 104); margin: 10px;text-align: cent
 .btn-whatsapp:hover {
     background-color: #128C7E;
 }
+footer {text-align: center;}
